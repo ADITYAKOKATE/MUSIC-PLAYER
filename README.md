@@ -17,3 +17,7 @@ A fully functional Music Player built with HTML, CSS, and JavaScript to provide 
 - CSS: Styles the player with responsive design and animations.
 
 - JavaScript: Implements interactivity and audio functionalities.
+
+## Screenshots
+<img src="Screenshot 2025-03-05 124341.png" width="700">
+
